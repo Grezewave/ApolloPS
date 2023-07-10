@@ -11,7 +11,7 @@ Este código foi desenvolvido para analisar a relação entre colesterol alto, a
 Para executar o código e reproduzir os resultados, siga estas etapas:
 
 1. Executar o Código: Execute o script Python usando o seguinte comando:
-python codigo.py
+python dataAnalysis.py
 
 
 2. Visualizar os Resultados: Após executar o código, o script calculará as porcentagens especificadas e as exibirá no console.
